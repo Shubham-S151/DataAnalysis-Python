@@ -1,5 +1,5 @@
 # DataAnalysis-Python
-DataAnalysis-Python A collection of data analysis projects using Python, covering EDA, visualizations, statistical insights, and feature engineering with Pandas, NumPy, Seaborn, and Scikit-learn. 🚀📊
+DataAnalysis-Python A collection of data analysis projects using Python, covering EDA, visualizations, statistical insights, and feature engineering with Pandas, NumPy, Seaborn, and Statsmodels. 🚀📊
 ---
 Here are the Prject index for this repository :
 | **Project Name**            | **Description**                           | **Link to Project**        |
